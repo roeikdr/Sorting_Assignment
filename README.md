@@ -1,6 +1,7 @@
 # Sorting Algorithm Comparison – Assignment 1
 
-**Student:** Michal Keidar
+**Student:** Roei Keidar
+
 
 ## Selected Algorithms
 
